@@ -1,0 +1,9 @@
+[submodule "lib/array_tools"]
+	path = lib/array_tools
+	url = https://github.com/Eigen-aiuHck/array_tools.git
+[submodule "lib/dynamic_type"]
+	path = lib/dynamic_type
+	url = https://github.com/Eigen-aiuHck/dynamic_type.git
+[submodule "lib/B_tree"]
+	path = lib/B_tree
+	url = https://github.com/Eigen-aiuHck/B_tree.git
