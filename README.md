@@ -1,5 +1,6 @@
 # Instrument_util<br>
 File Format or IO headers.<br>
+(for SMG2)
 
 Referenced site<br>
 Yaz0<br>
